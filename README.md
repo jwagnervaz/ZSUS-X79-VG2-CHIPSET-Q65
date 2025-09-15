@@ -25,5 +25,7 @@ Fixes:
 
 10 - IMC Updated
 
+CPU-Z BIOS Validation
+http://valid.x86.fr/lt640f
 
 UPDATES COMMING.
