@@ -1,1 +1,9 @@
+For dump only, dont flash with fpt, it will corrupt your BIOS ans cause brick.
 
+FOR FLASH USE AFUWIN
+
+TO DUMP YOUR BIOS AND MAKE A BACKUP USE
+
+fptw64 -d backup.rom 
+
+Save your backup in case you get a brick use a CH341 to flash your bios backup.
