@@ -13,7 +13,7 @@ Fixes:
 
 4 - REBAR support integraded IN NATIVE WAY (PORT BY ME) NEED A GPU UEFI GOP/REBAR COMPATIBLE
 
-5 - Boot time improved (ABOUT 8 SEC )
+5 - Boot time improved (ABOUT 4-8 SEC) Ps: Bootime with secureboot takes some seconds more, nvme or sata boot can have diffent time boot.
 
 6- Secure Boot and TPM (PORT BY ME)
 
