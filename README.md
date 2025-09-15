@@ -28,7 +28,5 @@ Fixes:
 CPU-Z BIOS PORT Validation
 https://valid.x86.fr/xs5skv
 
-CPU-Z BIOS Stock Validation
-http://valid.x86.fr/lt640f
 
 UPDATES COMMING.
