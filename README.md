@@ -13,7 +13,7 @@ Fixes:
 
 4 - REBAR support integraded IN NATIVE WAY (PORT BY ME) NEED A GPU UEFI GOP/REBAR COMPATIBLE
 
-5 - Boot time improved (ABOUT 4-8 SEC) Ps: Bootime with secureboot takes some seconds more, nvme or sata boot can have diffent time boot.
+5 - Boot time improved (ABOUT 1-4 SEC) Ps: Bootime with secureboot takes some seconds more, nvme or sata boot can have diffent time boot.
 
 6- Secure Boot and TPM (PORT BY ME)
 
@@ -25,6 +25,11 @@ Fixes:
 
 10 - IMC Updated
 
+11 - PCI-E M2 AHCI SUPPORT FOR (SAMSUNG/APPLE/OTHER)
+
+12- Portuguese BR language BIOS option
+
+--------
 CPU-Z BIOS PORT Validation
 https://valid.x86.fr/xs5skv
 
